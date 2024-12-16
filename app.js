@@ -58,7 +58,7 @@ app.set("io", io);
 const corsOptions = {
   origin: [
     "http://localhost:3000",
-    "https://bejewelled-pudding-84e138.netlify.app",
+    "https://gregarious-halva-566c8f.netlify.app",
   ], // Allow both localhost and Netlify domain
   methods: ["GET", "POST", "PUT", "DELETE"],
   credentials: true,
